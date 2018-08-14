@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SimpleStoreService/bin/Debug/net462/win7-x64
+/SimpleStoreService/obj/Debug
+/SimpleStoreApplication/obj/x64/Debug
+/SimpleStoreWeb
